@@ -1,0 +1,7 @@
+0:00 - 0:05 — Title frame: "SigmaValue: Real Estate Analysis Chatbot"
+0:05 - 0:20 — Show UI: type "Analyze Wakad" and press send
+0:20 - 0:40 — Show returned summary, chart and table. Mention preloaded CSV used.
+0:40 - 0:55 — Show compare: "Compare Ambegaon Budruk and Aundh demand trends"; show chart overlay
+0:55 - 1:10 — Show upload: upload a modified CSV/Excel; show message "dataset updated"
+1:10 - 1:20 — Mention optional OpenAI integration (brief)
+1:20 - 1:30 — Final slide: GitHub repository link + contact
